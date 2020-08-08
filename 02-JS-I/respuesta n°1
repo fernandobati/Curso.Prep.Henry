@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+	* Variables: Es una manera de guardar informacion, para despues recuperarla rapidamente.
+	Las cuales tienen nombres y nosotros podemos asignarle valores, para despues acceder a esos valores de forma rapida solo utilizando el nombre de dicha variable.
+
+
+	* Strings: Son palabras (un hilo de caracteres) las cuales siempre se encuentran entre comillas.
+	los numeros siempre que se encuentren dentro de comillas son strings.
+
+
+	* Funciones: Agrupa codigos los guarda, y despues los podes ejecutar.
+	Basicamente agrupa codigos para despues utilizarlos de manera sencilla, los cules voy a utilizar varias veces. 
+
+	* Declaraciones: Sirve para gregar logica al codigo, nos permite realizar preguntas e ir ejecutando distintos codigos segun las condiciones que le ordenemos.
+
+	* Valores booleanos: son dos valores posibles determinados, los cuales puedes ser TRUE ( verdadero ) FALSE ( falso );
