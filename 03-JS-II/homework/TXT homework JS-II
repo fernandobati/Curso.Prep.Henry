@@ -1,0 +1,11 @@
+Homework II
+
+for: es un bucle, que se utiliza para realizar tareas de manera repetitiva, el codigose va a repetir una y otre ves hasta q nosotros lo disponagmos.
+
+&&: ('AND?) es un operador logico, que evaluara dos expresiones y si estas resultan true, devolvera verdadero.
+en el caso de que una de las dos expreciones seas falsas , o ambas lo sean devolvera false.
+
+||: ('OR') es un operador logico, que evalua dos expresiones y si una de estas resultara true, devolveria true.
+en el caso de que las dos expresiones seas false, devuelve 'false'.
+
+!: ('NOT') este operador logico hace lo contrario al booleano. basicamente hace la inversa.
