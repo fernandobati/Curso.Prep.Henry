@@ -1,0 +1,7 @@
+ARRAYS:
+
+Es una serie de elementos, guardados que a cada uno se le asigna un valos..
+En este caso los valores empiezan de cero, uno, dos, tres etc. asi consecutivamente.
+A este se lo puede comparar con un contenedor, al cual le vamos a guardar informacion, y este lo va a ordenar de la manera anteriormente discripta.
+SE PUEDEN GUARDAR DENTRO DE UN ARRAY NUMEROS, STRINGS Y BOOLEANOS.
+TAMBIEN SE PUEDEN AGREGAR ARREGLOS DENTRO DE ESTE.
