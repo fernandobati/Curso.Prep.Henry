@@ -1,0 +1,15 @@
+
+Objetos:  Es como un array pero con una estructura mas compleja. un Objeto contiene mucha informacion sobre una sola cosa.
+Es una colleccion de propiedades.
+
+Propiedades: es una asocioacion entre un nombre y un valor.
+la cual podemos acceder al valor atreves de un nombre.
+
+Metodos: basicamente es una funcion guardada dentro de un objeto.
+
+Bucle (for...in): se utiliza para recorrer cada clave del objeto. se utiliza para itinerr entre cada par clave-valor en nuestro objeto.
+
+Notación de puntos vs notación de corchetes:
+la notacion de puntos es la mas simple. se llama ala clave par con el nombre del objeto un punto y el nombre de la clave.
+
+con la notacion de corchetes es como llamar a un elemento en una matriz.
